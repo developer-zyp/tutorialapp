@@ -1,6 +1,7 @@
 # tutorialapp
 
 A new Flutter Tutorial App project.
+
 Tutorial about Flutter Libraries Http, Retrofit, Room persistance database, buildrunner, GETX Statemanagement.
 
 ## Getting Started
