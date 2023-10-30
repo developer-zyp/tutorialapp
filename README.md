@@ -2,7 +2,7 @@
 
 A new Flutter Tutorial App project.
 
-Tutorial about Flutter Libraries Http, Retrofit, Room persistance database, buildrunner, GETX Statemanagement.
+Tutorial about Using Flutter Libraries - Http, Retrofit, Room persistance database, buildrunner, GETX Statemanagement and dependency injection.
 
 ## Getting Started
 
