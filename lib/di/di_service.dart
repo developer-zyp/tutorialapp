@@ -9,5 +9,5 @@ Future<void> init() async {
   Dio dio = Dio();
   dio.interceptors.add(LogInterceptor(responseBody: true, logPrint: (log) => print(log)));
   Get.lazyPut(() => ApiService(dio));
-  Get.lazyPut<CountryRepository>(() => CountryRepository(apiService: Get.find()));
+  Get.lazyPut(() => CountryRepository(apiService: Get.find()));
 }
