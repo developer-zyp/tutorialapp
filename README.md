@@ -2,6 +2,8 @@
 
 A new Flutter Tutorial App project.
 
+Tutorial App Using Flutter Libraries - Http, Retrofit, Room persistance database, buildrunner, GETX Statemanagement and dependency injection.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
